@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "raypenha",
+      "e-mail": "raypenha@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 1
+    },
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "data": "2020-05-05T02:06:10.687Z",
+      "id": 1
+    },
+    {
+      "data": "2020-05-05T02:09:29.922Z",
+      "uuid": "3d07d25f-026a-4242-9e3c-2a63b5f38953",
+      "id": 2
+    }
+  ]
+}
